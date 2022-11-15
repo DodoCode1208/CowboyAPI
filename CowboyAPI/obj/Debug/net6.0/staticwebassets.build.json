@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hWzWNdespvlNjCI1YIzrs5xOEfYy7IRBqGYid9w6B2M=",
+  "Source": "CowboyAPI",
+  "BasePath": "_content/CowboyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
